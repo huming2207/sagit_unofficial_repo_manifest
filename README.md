@@ -1,6 +1,6 @@
 # Unofficial repo manifest collections for Xiaomi Mi 6 (sagit)
 
-This branch is for **Resurrection Remix OS**
+This branch is for **LineageOS**
 
 ## Credits
 
@@ -16,7 +16,7 @@ This branch is for **Resurrection Remix OS**
 2. Grab the source code, by these commands:
 
 	```
-	repo init -u https://github.com/huming2207/sagit_unofficial_repo_manifest.git -b rr
+	repo init -u https://github.com/huming2207/sagit_unofficial_repo_manifest.git -b lineage
 	repo sync -f --force-sync --no-clone-bundle -j16
 	```
 	
