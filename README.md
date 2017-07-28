@@ -16,8 +16,8 @@ This branch is for **Resurrection Remix OS**
 2. Grab the source code, by these commands:
 
 	```
-	repo init -u https://github.com/huming2207/sagit_unofficial_repo_manifest.git
+	repo init -u https://github.com/huming2207/sagit_unofficial_repo_manifest.git -b rr
 	repo sync -f --force-sync --no-clone-bundle -j16
 	```
 	
-3. After download finishes, append this: `add_lunch_combo lineage_sagit-userdebug` to the last line of `vendor/cm/vendorsetup.sh`, save and compile as a normal LineageOS/RROS build process.
+3. After download finishes, append this: `add_lunch_combo lineage_sagit-userdebug` to the last line of `vendor/cm/vendorsetup.sh`, save and compile as an ordinary LineageOS/RROS build process.
